@@ -1,0 +1,3 @@
+Revenue Signals™ GitHub Pages deployment trigger.
+
+The published site root contains index.html and the assets required by the site.
